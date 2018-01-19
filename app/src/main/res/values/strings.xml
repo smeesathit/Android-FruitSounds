@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fruit Sounds</string>
+    <string name="label">แตะภาพเพื่อฟังการออกเสียงชื่อผลไม้</string>
+</resources>
