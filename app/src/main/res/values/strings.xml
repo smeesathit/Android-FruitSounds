@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Fruit Sounds</string>
     <string name="label">แตะภาพเพื่อฟังการออกเสียงชื่อผลไม้</string>
+    <string name="apple">apple</string>
+    <string name="avocado">avocado</string>
+    <string name="corn">corn</string>
+    <string name="grape">grape</string>
+    <string name="lemon">lemon</string>
+    <string name="mangosteen">mangosteen</string>
+    <string name="orange">orange</string>
+    <string name="pumpkin">pumpkin</string>
+    <string name="strawberry">strawberry</string>
 </resources>
